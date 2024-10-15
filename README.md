@@ -9,6 +9,9 @@ Criação de Host em  memória e definição de padrão de escrita. Foi realizad
 
 # Tecnologia Utilizada
 
-C#
+- C#
+- HTML
+- CSS
+- JS
 
 
